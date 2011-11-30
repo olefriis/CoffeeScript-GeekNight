@@ -1,0 +1,13 @@
+Generel introduktion, inkl. Jasmine: OFO (30 min)
+Introduktion til projektet: TGK (10 min)
+ - Vis resultatet.
+ - Skitser programstruktur (Google-regneark, geokoder, JQueryUI, Google Maps)
+Slider og Google Maps: TGK (15 min)
+
+Pause (30 min)
+
+Google-regnearks-henter: OFO (10 min)
+Parsning og geokodning: OFO (15 min)
+Sy det sammen: TGK (10 min)
+
+Bonus: Shell-scripts: TGK
